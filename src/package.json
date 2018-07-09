@@ -1,0 +1,17 @@
+{
+  "name": "guitar",
+  "version": "1.0.0",
+  "description": "UI Webapp and Mobile App",
+  "dependencies": {
+    "@oracle/oraclejet": "~5.1.0",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": true
+}
